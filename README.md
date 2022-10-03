@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hi there, I am Wei.
+I am a CS graudate student at Northeastern University. Currently based at San Francisco, California.
+Passionate about web development and open to learning new technologies.
 
-<!--
-**joungway/joungway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Quick Facts
+- **Creative Coder** 👉 An Ex-UX designer with strong focus on delivering high-level visual design to beautiful user interface with best practices in computer engineering.
+- **Data Visualization Enthusiast** 👉 Care about using data to tell elegant data storyies and bring insights to people.
 
-Here are some ideas to get you started:
+### 💻 Technologies
+- Front-end development using **HTML, CSS, Javascript, Bootstrap, React**
+- Backend development using **Node with Express, php**
+- Solving Data structure and algorithm questions in **Python**
+- Designing interactive Data Visualization with **D3, Processing**
+- Web Design with Figma and Adobe Illustrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach out to me
+- [LinkedIn](https://www.linkedin.com/in/itsweizhang/)
+- [Email](itsweizhang@outlook.com)
