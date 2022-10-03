@@ -1,10 +1,9 @@
 # 👋 Hi there, I am Wei.
-I am a CS graudate student at Northeastern University. Currently based at San Francisco, California.
-Passionate about web development and open to learning new technologies.
+I am a CS graduate student at Northeastern University, passionate about web development and open to learning new technologies. I am currently based in San Francisco, California. 
 
 ### ✨ Quick Facts
-- **Creative Coder** 👉 An Ex-UX designer with strong focus on delivering high-level visual design to beautiful user interface with best practices in computer engineering.
-- **Data Visualization Enthusiast** 👉 Care about using data to tell elegant data storyies and bring insights to people.
+- **Creative Coder** 👉 An Ex-UX designer with a strong focus on delivering high-level visual design to the beautiful user interface with best practices in computer engineering.
+- **Data Visualization Enthusiast** 👉 Care about using data to tell elegant data stories and bring insights to people.
 
 ### 💻 Technologies
 - Front-end development using **HTML, CSS, Javascript, Bootstrap, React**
