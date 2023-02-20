@@ -7,7 +7,7 @@ I am a CS graduate student at Northeastern University, passionate about web deve
 
 ### 💻 Technologies
 - Front-end development using **HTML, CSS, Javascript, Bootstrap, React**
-- Backend development using **Node with Express, php**
+- Backend development using **Node with Express, MongoDB, php**
 - Solving data structure and algorithm questions in **Python**
 - Designing interactive Data Visualization with **D3, Processing**
 - Web Design with Figma and Adobe Illustrator
